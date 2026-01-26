@@ -1,8 +1,12 @@
 Worksheet 1
-Name: Trimann Kaur	UID: 24BAI70511
-Branch: B.E. CSE (AIML)	Section: 24AIT_KRG-G1
-Semester: 4	Date of Performance: 09.01.2026
-Subject Name: Database Management System	Subject Code: 24CSH-298
+Name: Trimann Kaur	
+UID: 24BAI70511
+Branch: B.E. CSE (AIML)	
+Section: 24AIT_KRG-G1
+Semester: 4	
+Date of Performance: 09.01.2026
+Subject Name: Database Management System	
+Subject Code: 24CSH-298
 
 AIM: To design and implement a Library Management System database using appropriate tables, primary keys, foreign keys, and constraints, and to perform DML operations along with DCL commands such as role creation, privilege granting, and revoking to ensure database security.	
 
