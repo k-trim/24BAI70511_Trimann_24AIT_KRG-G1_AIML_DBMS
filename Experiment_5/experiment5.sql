@@ -1,17 +1,10 @@
 DECLARE
-num1 NUMBER := 6;
-num2 NUMBER := 7;
+salary NUMBER := 67000;
 
 BEGIN
-    IF mod(num1, 2) = 0 THEN
-    DBMS_OUTPUT.PUT_LINE(num1 || ' IS EVEN');
+    IF mod(salary, 2) = 0 THEN
+        DBMS_OUTPUT.PUT_LINE('Salary is even');
     ELSE
-    DBMS_OUTPUT.PUT_LINE(num1 || ' IS ODD');
-    END IF;
-    
-    IF mod(num2, 2) = 0 THEN
-    DBMS_OUTPUT.PUT_LINE(num2 || ' IS EVEN');
-    ELSE
-    DBMS_OUTPUT.PUT_LINE(num2 || ' IS ODD');
+        DBMS_OUTPUT.PUT_LINE('Salary is odd');
     END IF;
 END;
